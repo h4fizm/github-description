@@ -44,10 +44,3 @@ I love building **scalable web applications** and continuously learning new tech
 Let's connect and collaborate on exciting projects! 🚀
 
 ---
-
-## 🎵 Favorite Bands  
-![Oasis](https://upload.wikimedia.org/wikipedia/en/d/d3/Oasis_%28Definitely_Maybe_album_-_cover_art%29.png)  
-**Oasis** - A legendary British rock band known for hits like *Wonderwall* and *Don't Look Back in Anger*.
-
-![Blur](https://upload.wikimedia.org/wikipedia/en/7/75/Blur_-_Parklife.jpg)  
-**Blur** - An iconic Britpop band with songs like *Song 2* and *Parklife*.
